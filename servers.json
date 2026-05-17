@@ -1,13 +1,13 @@
 {
   "servers": [
     {
-      "server_name": "Server Template",
+      "server_name": "EHJ NL SMP",
       "server_type": "FourKit",
-      "server_address": "play.template.lce",
-      "server_owner": "Byte_HD",
-      "server_homepage": "https://optional.website.com",
+      "server_address": "smpehj.ddns.net",
+      "server_owner": "EvilHandsomeJack",
+      "server_homepage": "",
       "console_version": "neoLegacy",
-      "server_icon": "/img/server_name-icon.png"
+      "server_icon": "/img/ehj-smp.png"
     }
   ]
 }
